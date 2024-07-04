@@ -26,17 +26,6 @@
 					<string>https://jailbreaks.app/img/Jailbreaks.png</string>
 				</dict>
 			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.1420.972</string>
-				<key>bundle-version</key>
-				<string>1</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>Phoenix</string>
-			</dict>
 		</dict>
 	</array>
 </dict>
